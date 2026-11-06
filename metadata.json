@@ -1,0 +1,8 @@
+{
+  "name": "MetroMate India",
+  "description": "Real-time, location-aware, 3D-enhanced companion app for Indian metro rail systems with live arrivals, indoor 3D walk, and multimodal AI ticket scanning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
